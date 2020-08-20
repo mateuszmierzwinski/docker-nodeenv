@@ -1,2 +1,2 @@
 default:
-	docker build --tag=docker-pye-env .
+	docker build --tag=docker-nodeenv .
